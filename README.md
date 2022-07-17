@@ -1,4 +1,5 @@
-Goal: This is a project that I want to pratice my data explortatory analysis and simple machine learning model ability. 
+Goal: 
+This is a project that I want to pratice my data explortatory analysis and simple machine learning model ability. 
 
 ## About Dataset 
 In the dataste, we'll be given data of different stores of a supermarket company as per their store IDs which for ease has been converted to positive integers. 
