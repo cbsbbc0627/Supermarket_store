@@ -7,8 +7,11 @@ In the dataste, we'll be given data of different stores of a supermarket company
 Some explanation for columns: 
 
 Store_Area: Physical Area of the store in yard square. 
+
 Items_Availiable: Number of different items available in the corresponding store. 
+
 DailyCustomerCount: Number of customers who visited to store on an average over month. 
+
 Store_Sales: Sales in (US$) that stores made
 
 ### EDA Analysis 
